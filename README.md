@@ -4,9 +4,9 @@ This project is a custom implementation of a React reconciler, designed to effic
 
 
 #### Problem Statement
-Don’t clear the DOM upfront, update it based on what has changed.
-Question is, how does it calculate what all has changed?
-Has a todo been removed from the backend?
+Don’t clear the DOM upfront, update it based on what has changed.<br>
+Question is, how does it calculate what all has changed?<br>
+Has a todo been removed from the backend?<br>
 
 https://github.com/poseidontor/ReactReconcilersDemo/assets/24155514/52b3092a-2b6b-447d-b32c-f1da298d153f
 
